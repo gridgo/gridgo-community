@@ -10,7 +10,7 @@
 	</parent>
 
 	<properties>
-		<play.version>2.6.20</play.version>
+		<play.version>2.7.5</play.version>
 	</properties>
 
 	<dependencies>
